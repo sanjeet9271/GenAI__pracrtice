@@ -1,0 +1,7 @@
+pip==23.1.2
+numpy
+pandas
+scikit-learn
+tensorflow
+nltk
+gensim
